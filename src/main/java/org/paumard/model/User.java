@@ -1,7 +1,7 @@
 package org.paumard.model;
 
 public class User {
-
+//new comment
 	private String name;
 
 	public String getName() {
