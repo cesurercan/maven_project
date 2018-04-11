@@ -1,5 +1,5 @@
 package org.paumard.model;
-
+//this is my first class
 public class User {
 
 	private String name;
